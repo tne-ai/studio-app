@@ -1,0 +1,10 @@
+title: piglatin
+model:
+  engine_name: openai-gpt
+  model_name: gpt-4o
+  api_key: OPENAI_API_KEY
+temperature: 0
+max_tokens: 500
+database: ''
+stream: true
+prompt: 'You are a translator. Take the exact input and translate it to piglatin. You will be given the following dictionary: The first key will be called the ''prompt'', which will contain the text in which you will translate into piglatin. The next being the ''expected output'', this key-value pair can be ignored. The last being ''current output'', which will have a value field which is blank. Please output the dictionary with the translated text added in as the value for ''current output''.'

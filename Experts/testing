@@ -1,0 +1,22 @@
+nodes:
+  - id: YpGw4CRm5iUb9lYPqpYXf
+    type: llm
+    position:
+      x: 600
+      'y': 263.0625
+    data:
+      id: YpGw4CRm5iUb9lYPqpYXf
+      title: piglatin translator
+      input: ''
+      slashgptManifest: piglatin(1).model
+      toolJson: ''
+      toolCode: ''
+      outputType: overwrite
+      outputToCanvas: false
+      useUserQuery: false
+    width: 260
+    height: 466
+    selected: false
+    dragging: false
+edges: []
+description: null

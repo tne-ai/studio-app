@@ -1,0 +1,25 @@
+nodes:
+  - id: cvzCz56ycyVKuI90XKQpy
+    type: llm
+    position:
+      x: 463.29393939393947
+      'y': 441.175
+    data:
+      id: cvzCz56ycyVKuI90XKQpy
+      title: New Model
+      input: ''
+      slashgptManifest: piglatin(1).model
+      toolJson: ''
+      toolCode: ''
+      outputType: overwrite
+      outputToCanvas: false
+      useUserQuery: false
+    width: 212
+    height: 466
+    selected: true
+    positionAbsolute:
+      x: 463.29393939393947
+      'y': 441.175
+    dragging: false
+edges: []
+description: null
